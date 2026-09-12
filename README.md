@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi, I'm Harshita Gupta 👋
 
-<!--
-**harshita-079/harshita-079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Information Technology and Engineering student at
+Maharaja Agrasen Institute of Technology (MAIT), with a strong
+interest in Full-Stack Development, AI/LLM applications, and
+Data Structures & Algorithms.
 
-Here are some ideas to get you started:
+Currently working as a Full Stack & AI Intern, building backend
+and AI pipelines using Node.js, Express.js, MongoDB, OCR, and
+Google Gemini API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+C++ · C · Java · JavaScript · TypeScript · SQL
+
+### Frontend
+React.js · Next.js · HTML5 · CSS3 · Tailwind CSS
+
+### Backend
+Node.js · Express.js · REST APIs · JWT · MVC · Multer
+
+### Databases
+MongoDB · MySQL
+
+### AI & Tools
+Google Gemini API · OCR · Prompt Engineering · Git · GitHub · Postman
+
+
+## 🚀 Featured Projects
+
+### 🥗 NutriScan — AI-Powered Food Label Explainer
+
+Full-stack application that allows users to scan or upload
+food-product labels and receive structured, easy-to-understand
+product insights.
+
+**Tech:** MERN · Google Gemini API · OCR
+
+- Built an OCR + LLM pipeline for food-label analysis
+- Extracts ingredients, additives, nutritional values, and key features
+- Stores analyzed products and AI-generated results in MongoDB
+- Reuses previously analyzed products to avoid unnecessary AI calls
+
+🔗 [View Repository]()
+
+### 📄 ResumeIta — AI-Powered Resume Builder
+
+Full-stack resume builder with authentication, dynamic editing,
+real-time preview, PDF export, and AI-powered ATS analysis.
+
+**Tech:** MERN · Google Gemini API
+
+- Built dynamic resume editing and real-time preview
+- Implemented authentication and protected APIs
+- Added PDF export functionality
+- Built ATS analysis using rule-based checks + Gemini API
+
+🔗 [View Repository](YOUR_REPO_LINK)
+
+
+
+## 💼 Experience
+
+**Full Stack & AI Intern — Montre Solution Pvt. Ltd.**  
+`Jul 2026 – Present`
+
+Working on backend and AI pipelines for NutriScan using
+Node.js, Express.js, MongoDB, OCR, and Google Gemini API.
+
+**Frontend Developer Intern — DRDO**  
+`Jun 2025 – Jul 2025`
+
+Worked on migrating legacy JavaScript UI to React.js and
+built responsive interfaces using React.js, Next.js,
+Tailwind CSS, and TypeScript.
+
+
+
+## 🏆 Achievements
+
+- 🥇 Ranked in the Top 12 of the ITE branch at GGSIPU
+- 💻 Solved 200+ DSA problems
+- 👩‍💻 Active contributor to IETE Society
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Harshita Gupta](YOUR_LINKEDIN_URL)
+- 💻 GitHub: [Harshita Gupta](YOUR_GITHUB_URL)
+- 🧩 LeetCode: [Harshita Gupta](YOUR_LEETCODE_URL)
+- 📧 Email: harshitagupta5468@gmail.com
