@@ -63,7 +63,7 @@ real-time preview, PDF export, and AI-powered ATS analysis.
 ## 💼 Experience
 
 **Full Stack & AI Intern — Montre Solution Pvt. Ltd.**  
-`Jul 2026 – Present`
+`1 Jul 2026 – 15 Sep 2026`
 
 Working on backend and AI pipelines for NutriScan using
 Node.js, Express.js, MongoDB, OCR, and Google Gemini API.
