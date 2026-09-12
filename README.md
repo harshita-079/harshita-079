@@ -42,7 +42,7 @@ product insights.
 - Stores analyzed products and AI-generated results in MongoDB
 - Reuses previously analyzed products to avoid unnecessary AI calls
 
-🔗 [View Repository]()
+🔗 [View Repository](https://nutri-scanner-hyr8.vercel.app/)
 
 ### 📄 ResumeIta — AI-Powered Resume Builder
 
@@ -56,7 +56,7 @@ real-time preview, PDF export, and AI-powered ATS analysis.
 - Added PDF export functionality
 - Built ATS analysis using rule-based checks + Gemini API
 
-🔗 [View Repository](YOUR_REPO_LINK)
+🔗 [View Repository]([YOUR_REPO_LINK](https://resumeita-two.vercel.app/))
 
 
 
@@ -85,7 +85,7 @@ Tailwind CSS, and TypeScript.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Harshita Gupta](YOUR_LINKEDIN_URL)
-- 💻 GitHub: [Harshita Gupta](YOUR_GITHUB_URL)
-- 🧩 LeetCode: [Harshita Gupta](YOUR_LEETCODE_URL)
+- 💼 LinkedIn: [Harshita Gupta]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harshita-gupta-12a29b292/))
+- 💻 GitHub: [Harshita Gupta](https://github.com/harshita-079)
+- 🧩 LeetCode: [Harshita Gupta](https://leetcode.com/u/Harshita54/)
 - 📧 Email: harshitagupta5468@gmail.com
