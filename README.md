@@ -1,9 +1,7 @@
 # Hi, I'm Harshita Gupta 👋
 
 I'm a B.Tech Information Technology and Engineering student at
-Maharaja Agrasen Institute of Technology (MAIT), with a strong
-interest in Full-Stack Development, AI/LLM applications, and
-Data Structures & Algorithms.
+Maharaja Agrasen Institute of Technology (MAIT), Full-Stack Developer focused on building real-world web applications and AI-powered products.
 
 Currently working as a Full Stack & AI Intern, building backend
 and AI pipelines using Node.js, Express.js, MongoDB, OCR, and
